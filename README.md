@@ -1,8 +1,8 @@
 # Hi! I'm Alex! 👋🏻
 
-Bon dia! My full name is Alex Orpinell (alex0rpi on github and )
+Bon dia! My full name is Alex Orpinell,
 
-I was born in 84 and right now I live in my hometown Barcelona (Spain) after spending around 7 years in France (Bordeaux and Toulouse).
+I was born in Barcelona, where I was raised and took my engineering degree. I was then tempted to pursue my studies abroad so I took a double engineering degree program between UPC(Barcelona) and ENSAM(Bordeaux). Then I began my work experience back in Barcelona but a year later, I decided to move to France again, this time Toulouse, to do an advanced Master's degree in aeronautical maintenance. Then I had to chance to work for Airbus, first as a subcontractor for a french company (Aeroconseil), and later on for a supplier (ARITEX). After some hard meditating I deciding to quit, or at least pause my engineer career in mid 2017, which lead me to re-think my career direction. Today I live in my hometown Barcelona (Spain) after spending over 6 years in France.
 
 ## Freelance experience 👦•🏎️
 2018-2022 | Futures trader. While using the NinjaTrader graphical software I had a grasp of C# for customizing equity indicators, which later led me to further dive into programing.
