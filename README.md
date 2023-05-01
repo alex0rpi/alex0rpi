@@ -29,9 +29,6 @@ I'm also currently collaborating with the hockey veterans association to help th
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-* One of my main passions is piano🎹 music; you can find me on youtube where I post self-made videos in my spare time (@alexpiano or just ALex): <a href="https://youtube.com/playlist?list=PLJVgEo4qcrfhPdfPICwGvXe90lb9M8dj-">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-* I also like cooking🍜, cats😼, airplanes✈️, grow my humble urban orchard🌱.
-
 ## Freelance experience 👦•🏎️
 2018-2022 | Futures trader. While using the NinjaTrader graphical software I had a grasp of C# for customizing equity indicators, which later led me to further dive into programing. This was the seed that made me discover my interest in frontend and backend web development.
 
@@ -46,3 +43,7 @@ I'm also currently collaborating with the hockey veterans association to help th
 * 2009-2010 | Mastère Spécialisé Ingénierie Aéronautique (ENSAM Bordeaux, FRANCE)
 * 2002-2009 | Escola Superior d'Enginyeria Industrial de Barcelona (UPC ETSEIB)
 * 1993-2003 | Musical studies (piano, language, chamber, harmony) at Conservatori Superior de Música del Liceu
+
+## More about myself
+* One of my main passions is piano🎹 music; you can find me on youtube where I post self-made videos in my spare time (@alexpiano or just ALex): <a href="https://youtube.com/playlist?list=PLJVgEo4qcrfhPdfPICwGvXe90lb9M8dj-">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+* I also like cooking🍜, cats😼, airplanes✈️, grow my humble urban orchard🌱.
