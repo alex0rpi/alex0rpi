@@ -1,6 +1,6 @@
 # Hi! I'm Alex! 👋🏻
 
-Bon dia! My full name is Alex Orpinell and I am an engineer reskilled to software developer.
+Bon dia! My full name is Alex Orpinell and I am an engineer reskilled to web developer.
 
 I was born in Barcelona, where I was raised and took my engineering degree. For the last academic year I was tempted to pursue my studies abroad so I took a double engineering degree program between UPC (Barcelona) and ENSAM (Bordeaux). Then I started off my work experience back in Barcelona for an automotive engineering company (MAZEL). A year later though, I decided to move to France again, this time Toulouse, to do an advanced Master's degree in aeronautical maintenance. Then I had to chance to work for Airbus, first as a subcontractor for a french company (Aeroconseil), and later on for a spanish supplier (ARITEX). After some hard meditating I decided to quit my job and re-think my career direction. Today I live in my hometown Barcelona (Spain) after spending over 6 years in France.
 
