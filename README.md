@@ -6,6 +6,7 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
 
 # Programing & webdev training
 2023 - Currently | Backend development bootcamp at Mediatic (Barcelona). Afterwards I'm joining a devTeam project.
+2020 - 2022 | Self-taught web development learning (online bootcamps, tutorials etc.)
 
 ## Languages and Technologies 👦•💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
