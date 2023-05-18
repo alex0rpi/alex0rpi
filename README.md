@@ -41,7 +41,7 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
 
 ## Official education 👦•🎓
 * 2011-2012 | Advanced Master’s degree in Aeronautical Maintenance (ISAE Toulouse, FRANCE)
-* 2009-2010 | Mastère Spécialisé Ingénierie Aéronautique (ENSAM Bordeaux, FRANCE)
+* 2008-2010 | Double engineering degree program (ENSAM Bordeaux, FRANCE)
 * 2002-2009 | Escola Superior d'Enginyeria Industrial de Barcelona (UPC ETSEIB)
 * 1993-2003 | Musical studies (piano, language, chamber, harmony) at Conservatori Superior de Música del Liceu
 
