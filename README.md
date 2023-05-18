@@ -2,11 +2,10 @@
 
 Bon dia! My full name is Alex Orpinell and I am an engineer reskilled to web developer.
 
-I was born in Barcelona, where I was raised and took my engineering degree. For the last academic year I was tempted to pursue my studies abroad so I took a double engineering degree program between UPC (Barcelona) and ENSAM (Bordeaux). Then I started off my work experience back in Barcelona for an automotive engineering company (MAZEL). A year later though, I decided to move to France again, this time Toulouse, to do an advanced Master's degree in aeronautical maintenance. Then I had to chance to work for Airbus, first as a subcontractor for a french company (Aeroconseil), and later on for a spanish supplier (ARITEX). After some hard meditating I decided to quit my job and re-think my career direction. Today I live in my hometown Barcelona (Spain) after spending over 6 years in France.
+I was born in Barcelona, where I was raised and took my engineering degree. For the last academic year I was tempted to pursue my studies abroad so I took a double engineering degree program between UPC (Barcelona) and ENSAM (Bordeaux). Then I started off my work experience back in Barcelona for an automotive engineering company (MAZEL) as a quality engineer. A year later though, I decided to move to France again, this time Toulouse, to do an advanced Master's degree in aeronautical maintenance. Then I had the chance to work for Airbus at the Saint Eloi pylons factory. At first I had a maintenability engineer role as a subcontractor for a french company (Aeroconseil). Then, 3 years later I joined a spanish supplier (ARITEX) to co-manage the design and implementation of the A330neo pylon assembly line. Though, after some hard meditating I decided to quit my job and re-think my career direction. Today I am back in my hometown Barcelona (Spain) after spending over 6 years in France.
 
 # Programing & webdev training
-2023 - Currently | Backend development bootcamp at Mediatic (Barcelona).
-I'm also currently collaborating with the hockey veterans association to help them with their website.
+2023 - Currently | Backend development bootcamp at Mediatic (Barcelona). Afterwards I'm joining a devTeam project.
 
 ## Languages and Technologies 👦•💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
