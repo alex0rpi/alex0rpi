@@ -5,11 +5,11 @@ Bon dia! My full name is Alex Orpinell and I am an engineer reskilled to web dev
 I was born in Barcelona, where I was raised and took my engineering degree. For the last academic year I was tempted to pursue my studies abroad so I took a double engineering degree program between UPC (Barcelona) and ENSAM (Bordeaux). Then I started off my work experience back in Barcelona for an automotive engineering company (MAZEL) as a quality engineer. A year later though, I decided to move to France again, this time Toulouse, to do an advanced Master's degree in aeronautical maintenance. Then I had the chance to work for Airbus at the Saint Eloi pylons factory. At first I had a maintenability engineer role as a subcontractor for a french company (Aeroconseil). Then, 3 years later I joined a spanish supplier (ARITEX) to co-manage the design and implementation of the A330neo pylon assembly line. Though, after some hard meditating I decided to quit my job and re-think my career direction. Today I am back in my hometown Barcelona (Spain) after spending over 6 years in France.
 
 # Programing & webdev training
-Currently<br>
-          |_ About to join the ITA-WIKI project (https://github.com/IT-Academy-BCN/ita-wiki).
-          |_ Some side projects like making a website for the FCB hockey veterans association.
-2023 | Backend development bootcamp at Mediatic (Barcelona). Afterwards I'm joining a devTeam project.
-2020 - 2022 | Self-taught web development learning (online bootcamps, tutorials etc.)
+* Currently
+    * About to join the ITA-WIKI project (https://github.com/IT-Academy-BCN/ita-wiki).
+    * Some side projects like making a website for the FCB hockey veterans association.<br>
+* 2023 | Backend development bootcamp at Mediatic (Barcelona). The end of bootcamp project is a fullstrack chat web app that can be found in my pinned repositories.<br>
+* 2020 - 2022 | Self-taught web development learning (online bootcamps, tutorials etc.)
 
 ## Languages and Technologies 👦•💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,5 +49,5 @@ Currently<br>
 * 1993-2003 | Musical studies (piano, language, chamber, harmony) at Conservatori Superior de Música del Liceu
 
 ## More about myself
-* One of my main passions is piano🎹 music; you can find me on youtube where I post self-made videos in my spare time (@alexpiano or just ALex): <a href="https://youtube.com/playlist?list=PLJVgEo4qcrfhPdfPICwGvXe90lb9M8dj-">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-* I also like cooking🍜, cats😼, airplanes✈️, grow my humble urban orchard🌱.
+* One of my main passions is piano🎹 music; you can find me on youtube where I post self-made videos in my spare time (@alexpiano or just ALex):<br> <a href="https://youtube.com/playlist?list=PLJVgEo4qcrfhPdfPICwGvXe90lb9M8dj-">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+* I also like cooking🍜, cats😼, airplanes✈️, grow my little urban orchard🌱🌱.
