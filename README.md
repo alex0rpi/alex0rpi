@@ -1,6 +1,6 @@
 # Hi! I'm Alex! 👋🏻
 
-Bon dia! My full name is Alex Orpinell and I am an engineer reskilled to web developer.
+Bon dia! My name is Alex Orpinell and I am an engineer reskilled to software developer.
 
 I was born in Barcelona, where I was raised and took my engineering degree. For the last academic year I was tempted to pursue my studies abroad so I took a double engineering degree program between UPC (Barcelona) and ENSAM (Bordeaux). Then I started off my work experience back in Barcelona for an automotive engineering company (MAZEL) as a quality engineer. A year later though, I decided to move to France again, this time Toulouse, to do an advanced Master's degree in aeronautical maintenance. Then I had the chance to work for Airbus at the Saint Eloi pylons factory. At first I had a maintenability engineer role as a subcontractor for a french company (Aeroconseil). Then, 3 years later I joined a spanish supplier (ARITEX) to co-manage the design and implementation of the A330neo pylon assembly line. Though, after some hard meditating I decided to quit my job and re-think my career direction. Today I am back in my hometown Barcelona (Spain) after spending over 6 years in France.
 
