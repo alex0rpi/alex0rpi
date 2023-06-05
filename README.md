@@ -37,7 +37,7 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
 ### Other tools
 Zod - Yup - Formik - Express-validator
 ## Freelance experience 👦•🏎️
-2018-2022 | Futures trader. While using the NinjaTrader graphical software I had a grasp of C# for customizing equity indicators, which later led me to further dive into programing. This was the seed that made me discover my interest in frontend and backend web development.
+2018-2022 | Futures trader. While using the NinjaTrader graphical software I had a grasp of C# for customizing equity indicators, which later led me to further dive into programing.
 
 ## Work experience 👦•🚅
 * 2015-2017 | ARITEX as Project Manager for the A330neo Pylon Assembly Line implementation.
@@ -53,4 +53,4 @@ Zod - Yup - Formik - Express-validator
 
 ## More about myself
 * One of my main passions is piano🎹 music; you can find me on youtube where I post self-made videos in my spare time (@alexpiano or just ALex):<br> <a href="https://youtube.com/playlist?list=PLJVgEo4qcrfhPdfPICwGvXe90lb9M8dj-">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-* I also like cooking🍜, cats😼, airplanes✈️, grow my little urban orchard🌱🌱.
+* I also like cooking🍜, bricolage🔨, cats😼, airplanes✈️, grow my little orchard🌱🌱.
