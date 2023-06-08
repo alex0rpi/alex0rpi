@@ -4,12 +4,10 @@ Bon dia! My name is Alex Orpinell and I am an engineer reskilled to software dev
 
 I was born in Barcelona, where I was raised and took my engineering degree. For the last academic year I was enticed to pursue my studies abroad so I took a double engineering degree program between UPC (Barcelona) and ENSAM (Bordeaux). Then I started off my work experience back in Barcelona with an automotive engineering company (MAZEL). A year later I decided to move to France again, this time Toulouse, to do an advanced master’s degree in aeronautical maintenance. Then I had the chance to work for Airbus at the Saint Eloi pylons factory. At first I was a maintainability engineer as a subcontractor for a French company (Aeroconseil) for three years. Then I joined a Spanish supplier (ARITEX) to co-manage the design and implementation of the A330neo pylon assembly line. Two years later tough, I started missing my hometown and also the permanent travelling was taking its toll on my personal life. Thus, after some hard meditating and having spent over 6 years in France, I decided to quit my job, come back to my hometown, and re-think my career.
 
-Coinciding with the COVID lockdown I started reskilling myself to software development and I've been increasingly interested to learn new things since.
+Coinciding with the COVID lockdown I started reskilling myself to software development and I've been learning new things since. 
 
 # Programing & webdev training
-* Currently
-    * About to join the ITA-WIKI project (https://github.com/IT-Academy-BCN/ita-wiki).
-    * Some side projects like making a website for the FCB hockey veterans association.<br>
+* Currently | Backend developer within the ITA-WIKI project (https://github.com/IT-Academy-BCN/ita-wiki).
 * 2023 | Backend development bootcamp at Mediatic (Barcelona). The end of bootcamp project is a fullstrack chat web app that can be found in my pinned repositories.<br>
 * 2020 - 2022 | Self-taught web development learning (online bootcamps, tutorials etc.)
 
