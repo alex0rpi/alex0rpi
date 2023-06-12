@@ -36,7 +36,7 @@ Coinciding with the COVID lockdown I started reskilling myself to software devel
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ### Other tools
-[<img src="https://vitest.dev/logo-shadow.svg">](https://vitest.dev/) - Zod - Yup - Formik - Express-validator
+[[<img src="https://vitest.dev/logo-shadow.svg">](https://vitest.dev/)](https://img.shields.io/badge/Vitest-test-green) - Zod - Yup - Formik - Express-validator
 ## Freelance experience 👦•🏎️
 2018-2022 | Futures trader. While using the NinjaTrader graphical software I had a grasp of C# for customizing equity indicators, which later led me to further dive into programing.
 
