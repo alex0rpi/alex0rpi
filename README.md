@@ -7,8 +7,8 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
 # Programing & webdev training
 * 🔭 I’m currently working on [ITA-WIKI](https://github.com/IT-Academy-BCN/ita-wiki) as backend developer.<br>
 * 2023 | Backend development bootcamp at Mediatic (Barcelona). The end of bootcamp project is a fullstrack chat web app that can be found in my pinned repositories.<br>
-* 2020 - 2022 | Self-taught web development learning (online bootcamps, tutorials etc.)
-
+* 2020 - 2022 | Self-taught web development learning (online bootcamps, tutorials etc.)<br>
+- 📫 How to reach me **orpi.alex@hotmail.com**
 ## Languages and Technologies 👦•💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
