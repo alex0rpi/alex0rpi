@@ -35,7 +35,7 @@ API documentation with ![Swagger](https://img.shields.io/badge/-Swagger-%23Cloju
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ### Other tools
-<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/Vitest-UnitTesting-yellowgreen"/> <img src="https://img.shields.io/badge/Zod-Validation-1B5461"/> <img src="https://img.shields.io/badge/Yup_Formik-Validation-blue"/> <img src="https://img.shields.io/badge/ExpressValidator-Validation-black"/>
+<img src="https://img.shields.io/badge/Jest-UnitTesting-red"/> <img src="https://img.shields.io/badge/Vitest-UnitTesting-yellowgreen"/> <img src="https://img.shields.io/badge/Zod-Validation-1B5461"/> <img src="https://img.shields.io/badge/Yup_Formik-Validation-blue"/> <img src="https://img.shields.io/badge/ExpressValidator-Validation-black"/>
 ## Freelance experience 👦•🏎️
 2018-2022 | Futures trader. While using the NinjaTrader graphical software I had a grasp of C# for customizing equity indicators, which later led me to further dive into programing.
 
