@@ -46,8 +46,8 @@ API documentation with ![Swagger](https://img.shields.io/badge/-Swagger-%23Cloju
 
 ## Official education 👦•🎓
 * 2011-2012 | Advanced Master’s degree in Aeronautical Maintenance (ISAE Toulouse, FRANCE)
-* 2008-2010 | Double engineering degree program (ENSAM Bordeaux, FRANCE)
-* 2002-2009 | Escola Superior d'Enginyeria Industrial de Barcelona (UPC ETSEIB)
+* 2008-2010 | Double engineering exchange program (ENSAM Bordeaux, FRANCE)
+* 2002-2009 | Escola Superior d'Enginyeria Industrial de Barcelona (UPC ETSEIB, Pla 94)
 * 1993-2003 | Musical studies (piano, language, chamber, harmony) at Conservatori Superior de Música del Liceu
 
 ## More about myself
