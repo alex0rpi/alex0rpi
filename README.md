@@ -36,7 +36,7 @@ API documentation with ![Swagger](https://img.shields.io/badge/-Swagger-%23Cloju
 ### Other tools
 <img src="https://img.shields.io/badge/Jest-UnitTesting-red"/> <img src="https://img.shields.io/badge/Vitest-UnitTesting-yellowgreen"/> <img src="https://img.shields.io/badge/Zod-Validation-1B5461"/> <img src="https://img.shields.io/badge/Yup_Formik-Validation-blue"/> <img src="https://img.shields.io/badge/ExpressValidator-Validation-black"/>
 ## Freelance experience 👦•🏎️
-2018-2022 | Futures trader. While using the NinjaTrader graphical software I had a grasp of C# for customizing equity indicators, which later led me to further dive into programing.
+2018-2022 | Index Futures micro investments. "While working with the NinjaTrader graphical software, I became familiar with using basic C# commands and syntax to customize equity indicators. Over time, I decided to devote my energy and time exclusively to programming."
 
 ## Work experience 👦•🚅
 * 2015-2017 | ARITEX as Project Manager for the A330neo Pylon Assembly Line implementation.
@@ -45,10 +45,13 @@ API documentation with ![Swagger](https://img.shields.io/badge/-Swagger-%23Cloju
 * 2010-2011 | MAZEL Ingenieros as Quality engineer and later as commercial engineer.
 
 ## Official education 👦•🎓
-* 2011-2012 | Advanced Master’s degree in Aeronautical Maintenance (ISAE Toulouse, FRANCE)
-* 2008-2010 | Double engineering exchange program (ENSAM Bordeaux, FRANCE)
-* 2002-2009 | Escola Superior d'Enginyeria Industrial de Barcelona (UPC ETSEIB, Pla 94)
-* 1993-2003 | Musical studies (piano, language, chamber, harmony) at Conservatori Superior de Música del Liceu
+* 2011-2012 | Advanced Master’s degree in Aeronautical Maintenance (ISAE Toulouse, FRANCE)<br>
+  Double Master's degree in engineering:
+- 2002-2009 | Escola Superior d'Enginyeria Industrial de Barcelona (UPC)
+- 2008-2010 | (ENSAM Bordeaux)<br>
+  Extra-curricular education:
+- 1993-2003 | Musical studies and piano at <br>
+  Conservatori Superior de Música del Liceu
 
 ## More about myself
 * One of my main passions is piano🎹 music; you can find me on youtube where I post self-made videos in my spare time (@alexpiano or just ALex):<br> <a href="https://youtube.com/playlist?list=PLJVgEo4qcrfhPdfPICwGvXe90lb9M8dj-">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
