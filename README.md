@@ -6,7 +6,7 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
 
 # Programing experience
 * December 2023 ⭐🔋I’m starting a new position as junior engineer at NTT Data in Barcelona!!<br>
-* June-December 2023 | Involved on [ITA-WIKI](https://github.com/IT-Academy-BCN/ita-wiki) as backend developer.<br>
+* June-December 2023 | Involved in [ITA-WIKI](https://github.com/IT-Academy-BCN/ita-wiki) as backend developer.<br>
 # Developer training
 * Jan-June 2023 | Backend development bootcamp at Mediatic (Barcelona). The end of bootcamp project is a fullstrack chat web app that can be found in my pinned repositories.<br>
 * 2020 - 2022 | Self-taught web development learning (online bootcamps, tutorials etc.)<br>
@@ -57,6 +57,6 @@ API documentation with ![Swagger](https://img.shields.io/badge/-Swagger-%23Cloju
 - 1993-2003 | Musical studies and piano at <br>
   Conservatori Superior de Música del Liceu
 
-## More about myself
+# More about myself
 * One of my main passions is piano🎹 music; you can find me on youtube where I post self-made videos in my spare time (@alexpiano or just ALex):<br> <a href="https://youtube.com/playlist?list=PLJVgEo4qcrfhPdfPICwGvXe90lb9M8dj-">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 * I also like cooking🍜, bricolage🔨, cats😼, airplanes✈️, grow my little orchard🌱🌱.
