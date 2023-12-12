@@ -39,16 +39,16 @@ API documentation with ![Swagger](https://img.shields.io/badge/-Swagger-%23Cloju
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### Other tools
 <img src="https://img.shields.io/badge/Jest-UnitTesting-red"/> <img src="https://img.shields.io/badge/Vitest-UnitTesting-yellowgreen"/> <img src="https://img.shields.io/badge/Zod-Validation-1B5461"/> <img src="https://img.shields.io/badge/Yup_Formik-Validation-blue"/> <img src="https://img.shields.io/badge/ExpressValidator-Validation-black"/>
-## Freelance experience 👦•🏎️
+# Freelance experience 👦•🏎️
 2018-2022 | Index Futures micro investments. "While working with the NinjaTrader graphical software, I became familiar with using basic C# commands and syntax to customize equity indicators. Over time, I decided to devote my energy and time exclusively to programming."
 
-## Work experience 👦•🚅
+# Work experience 👦•🚅
 * 2015-2017 | ARITEX as Project Manager for the A330neo Pylon Assembly Line implementation.
 * 2012-2015 | AEROCONSEL (AKKA Technologies) as maintainability engineer in Airbus.
 * 2012-2012 | ALTEN (A couple months suffised to realize that it wasn't my place).
 * 2010-2011 | MAZEL Ingenieros as Quality engineer and later as commercial engineer.
 
-## Official education 👦•🎓
+# Official education 👦•🎓
 * 2011-2012 | Advanced Master’s degree in Aeronautical Maintenance (ISAE Toulouse, FRANCE)<br>
   Double Master's degree in engineering:
 - 2002-2009 | Escola Superior d'Enginyeria Industrial de Barcelona (UPC)
