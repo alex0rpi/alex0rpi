@@ -5,7 +5,7 @@ Bon dia! My name is Alex Orpinell and I am an engineer reskilled to Backend deve
 I was born in Barcelona, where I was raised and took my engineering degree. For the last academic year I was enticed to pursue my studies abroad so I took a double engineering degree program between UPC (Barcelona) and ENSAM (Bordeaux). Then I started off my work experience back in Barcelona with an automotive engineering company (MAZEL). A year later I decided to move to France again, this time Toulouse, to do an advanced master’s degree in aeronautical maintenance at ISAE Supaero. Then I had the chance to work for Airbus at the Saint Eloi pylons factory. At first I was a maintainability engineer as a subcontractor for a French company (Aeroconseil) for three years. Then I joined a Spanish supplier (ARITEX) to co-manage the design and implementation of the A330neo pylon assembly line. Two years later tough, I started missing my hometown and also the permanent travelling was taking its toll on my personal life. Thus, after some hard meditating and having spent over 6 years in France, I decided to quit my job, come back to my hometown, and re-think my career. I then started reskilling myself to software development and today I am a junior fullstack developer. I am always eager to level up my knowledge, build projects and try new ways.
 
 # Programing experience
-* December 2023 ⭐🔋I started a new position as junior engineer at NTT Data in Barcelona!!<br>
+* From December 2023 ⭐🔋I started a new position as junior engineer at NTT Data in Barcelona!<br>
 * June-December 2023 | Involved in [ITA-WIKI](https://github.com/IT-Academy-BCN/ita-wiki) as backend developer.<br>
 # Developer training
 * Jan-June 2023 | Backend development bootcamp at Mediatic (Barcelona). The end of bootcamp project is a fullstrack chat web app that can be found in my pinned repositories.<br>
@@ -42,7 +42,7 @@ API documentation with ![Swagger](https://img.shields.io/badge/-Swagger-%23Cloju
 # Freelance experience 👦•🏎️
 2018-2022 | Index Futures micro investments. "While working with the NinjaTrader graphical software, I became familiar with using basic C# commands and syntax to customize equity indicators. Over time, I decided to devote my energy and time exclusively to programming."
 
-# Work experience 👦•🚅
+# Previous Work experience 👦•🚅
 * 2015-2017 | ARITEX as Project Manager for the A330neo Pylon Assembly Line implementation.
 * 2012-2015 | AEROCONSEL (AKKA Technologies) as maintainability engineer in Airbus.
 * 2012-2012 | ALTEN (A couple months suffised to realize that it wasn't my place).
