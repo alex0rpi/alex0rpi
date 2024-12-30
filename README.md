@@ -9,8 +9,8 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
 * July 2024 Lately I've been thinking about learning in my spare time NextJS (I've always used REACT but I think at some point I need to make the step) and perhaps a new language such as Go, C# or Kotlin for backend dev purposes. I find it worthy and future proved.
 * June 2024 🕓📅 It's been 6 months already at NTT DATA and here's a summary of my journey and learnings:
   * Utilizing Hyperfront, a JS full-stack framework by Basikon, for a banking loan and dealer portal, integrating React, Bootstrap, MongoDB (pipelines, aggregates, projections), and custom API endpoints.
-  * Implemented Jest for unit testing, ensuring a clean and efficient architecture for functions and scripts with clear responsibilities.
-  * I definitely leveled up my Git skills in this collaborative project and feel confident managing stashes, merges, rebases, and conflicts.
+  * Implemented Jest for unit testing, ensuring an efficient architecture and single-responsability functions.
+  * I definitely leveled up my Git skills in this collaborative project and feel confident managing stashes, merges, rebases, conflicts etc.
   * Engaging directly with a French client, refreshing my French language skills, and utilizing Poker planning techniques.
 * April 2024 I'm happy to have published a new project for the FCB Rink Hockey Veterans Association (Associació de Veterans d'Hoquei Patins del FC Barcelona). I made a static website with React-Vite and Tailwind. [Veterans Hoquei Patins](https://client-veterans-hoquei.onrender.com/) I first wanted to make a fullstack app with a KOA backend and a postgresql DB but its for the moment on a different branch, ready to be deployed if they request to have user authentication and blog functionality.
 * From December 2023 ⭐🔋I started a new position as junior engineer at NTT DATA in Barcelona!<br>
