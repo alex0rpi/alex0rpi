@@ -51,7 +51,7 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
 ### Other tools
 <img src="https://img.shields.io/badge/Jest-UnitTesting-red"/> <img src="https://img.shields.io/badge/Vitest-UnitTesting-yellowgreen"/> <img src="https://img.shields.io/badge/Zod-Validation-1B5461"/> <img src="https://img.shields.io/badge/Yup_Formik-Validation-blue"/> <img src="https://img.shields.io/badge/ExpressValidator-Validation-black"/>
 # Freelance experience 👦•🏎️
-2018-2022 | Index Futures micro investments. "While working with the NinjaTrader graphical software, I became familiar with using basic C# commands and syntax to customize equity indicators. Over time, I decided to devote my energy and time exclusively to programming."
+2018-2022 | Index Futures micro investments. While working with the NinjaTrader graphical software, I became familiar with using basic C# commands and syntax to customize equity indicators. Over time, I decided to devote my energy and time exclusively to programming.
 
 # Previous Work experience 👦•🚅
 * 2015-2017 | ARITEX as Project Manager for the A330neo Pylon Assembly Line implementation.
