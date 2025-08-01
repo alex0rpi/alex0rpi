@@ -49,7 +49,7 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### Other tools
-<img src="https://img.shields.io/badge/Jest-UnitTesting-red"/> <img src="https://img.shields.io/badge/Vitest-UnitTesting-yellowgreen"/> <img src="https://img.shields.io/badge/Zod-Validation-1B5461"/> <img src="https://img.shields.io/badge/Yup_Formik-Validation-blue"/> <img src="https://img.shields.io/badge/ExpressValidator-Validation-black"/>
+<img src="https://img.shields.io/badge/JUNIT-UnitTesting-green"/> <img src="https://img.shields.io/badge/Jest-UnitTesting-red"/> <img src="https://img.shields.io/badge/Vitest-UnitTesting-yellowgreen"/> <img src="https://img.shields.io/badge/Zod-Validation-1B5461"/> <img src="https://img.shields.io/badge/Yup_Formik-Validation-blue"/> <img src="https://img.shields.io/badge/ExpressValidator-Validation-black"/>
 # Freelance experience 👦•🏎️
 2018-2022 | Index Futures micro investments. While working with the NinjaTrader graphical software, I became familiar with using basic C# commands and syntax to customize equity indicators. Over time, I decided to devote my energy and time exclusively to programming.
 
