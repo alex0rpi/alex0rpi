@@ -13,7 +13,7 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
   * Implemented Jest for unit testing, ensuring an efficient architecture and single-responsability functions.
   * I definitely leveled up my Git skills in this collaborative project and feel confident managing stashes, merges, rebases, conflicts etc.
   * Engaging directly with a French client, refreshing my French language skills, and utilizing Poker planning techniques.
-* April 2024 I'm happy to have published a new project for the FCB Rink Hockey Veterans Association (Associació de Veterans d'Hoquei Patins del FC Barcelona). I made a static website with React-Vite and Tailwind. [Veterans Hoquei Patins](https://client-veterans-hoquei.onrender.com/) I first wanted to make a fullstack app with a KOA backend and a postgresql DB but its for the moment on a different branch, ready to be deployed if they request to have user authentication and blog functionality.
+* April 2024 I'm happy to have published a new project for the FCB Rink Hockey Veterans Association (Associació de Veterans d'Hoquei Patins del FC Barcelona). I made a static website with React-Vite and Tailwind. [Veterans Hoquei Patins](https://www.veteranshoqueipatinsfcb.es/) I first wanted to make a fullstack app with a KOA backend and a postgresql DB but its for the moment on a different branch, ready to be deployed if they request to have user authentication and blog functionality.
 * From December 2023 ⭐🔋I started a new position as junior engineer at NTT DATA in Barcelona!<br>
 * June-December 2023 | Involved in [ITA-WIKI](https://github.com/IT-Academy-BCN/ita-wiki) as backend developer.<br>
 # Developer training
