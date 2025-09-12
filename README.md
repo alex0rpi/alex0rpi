@@ -6,14 +6,14 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
 
 # Journal📰​ (sort of..)
 * July 2025 I got promoted to Engineer!🥳 kinda what I am already but anyway, I'm glad I got to this point. It's been 8 months or so in my current project where I got to use Java, JUNIT, Spring, JPA, SQL and other tools in a microservices environment with JENKINS pipeline deployments; so its kinda cool how many different technologies I've been able to use in this time.
-* November 2024 A new banking project starts in my work group and I now find myself learning JAVA☕ and microservices!! Seems I need to get competent at the Spring framework for this new project. Incidently, the basic knowledge I gained from C# and Go is being helpful to grasp and interiorize concepts. Learning a new language (appart from learning a new superpower also makes you re-visit the fundamentals).
-* July 2024 Lately I've been thinking about learning in my spare time NextJS (I've always used REACT but I think at some point I need to make the step) and perhaps a new language such as Go, C# or Kotlin for backend dev purposes. I find it worthy and future proved.
+* November 2024 A new banking project starts in my work group and I now find myself learning JAVA☕ and microservices!! Seems I need to get competent at the Spring framework for this new project. Learning a new language (appart from learning a new superpower also makes you re-visit the fundamentals).
+* July 2024 Lately I've been thinking about learning in my spare time NextJS (I've always used REACT but I think at some point I need to make the step) and perhaps a new language such as Go or C#.
 * June 2024 🕓📅 It's been 6 months already at NTT DATA and here's a summary of my journey and learnings:
   * Utilizing Hyperfront, a JS full-stack framework by Basikon, for a banking loan and dealer portal, integrating React, Bootstrap, MongoDB (pipelines, aggregates, projections), and custom API endpoints.
   * Implemented Jest for unit testing, ensuring an efficient architecture and single-responsability functions.
   * I definitely leveled up my Git skills in this collaborative project and feel confident managing stashes, merges, rebases, conflicts etc.
   * Engaging directly with a French client, refreshing my French language skills, and utilizing Poker planning techniques.
-* April 2024 I'm happy to have published a new project for the FCB Rink Hockey Veterans Association (Associació de Veterans d'Hoquei Patins del FC Barcelona). I made a static website with React-Vite and Tailwind. [Veterans Hoquei Patins](https://www.veteranshoqueipatinsfcb.es/) I first wanted to make a fullstack app with a KOA backend and a postgresql DB but its for the moment on a different branch, ready to be deployed if they request to have user authentication and blog functionality.
+* April 2024 I'm happy to have published a new project for the FCB Rink Hockey Veterans Association (Associació de Veterans d'Hoquei Patins del FC Barcelona). I made a static website with React-Vite and Tailwind. [Veterans Hoquei Patins](https://www.veteranshoqueipatinsfcb.es/) I first wanted to make a fullstack app with a KOA backend and a postgresql DB but its for the moment on a different branch.
 # Programing experience
 * July 2025 | Promoted to Engineer🚀​<br>
 * From December 2023 ⭐🔋I started a new position as junior engineer at NTT DATA in Barcelona!<br>
