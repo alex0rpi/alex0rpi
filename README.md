@@ -1,4 +1,4 @@
-# Hi! I'm Alex Orpi! 👋🏻
+# Bon dia! I'm Alex Orpi! 👋🏻
 
 Bon dia! My name is Alex Orpinell and I am an engineer reskilled to Backend developer.
 
