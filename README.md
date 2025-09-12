@@ -59,7 +59,6 @@ I was born in Barcelona, where I was raised and took my engineering degree. For 
 # Previous Work experience 👦•🚅
 * 2015-2017 | ARITEX as Project Manager for the A330neo Pylon Assembly Line implementation.
 * 2012-2015 | AEROCONSEL (AKKA Technologies) as maintainability engineer in Airbus.
-* 2012-2012 | ALTEN (A couple months suffised to realize that it wasn't my place).
 * 2010-2011 | MAZEL Ingenieros as Quality engineer and later as commercial engineer.
 
 # Official education 👦•🎓
