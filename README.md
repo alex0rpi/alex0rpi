@@ -8,7 +8,7 @@ After more than 6 years in France, I decided to return to my hometown, re-skill 
 
 # Programing experience
 * July 2025 | Promoted to Engineer🚀​<br>
-* From December 2023 ⭐🔋I started a new position as junior engineer at NTT DATA in Barcelona!<br>
+* From December 2023 ⭐🔋I started a new position as junior engineer at NTT DATA within the Banking Services department in Barcelona!<br>
 * June-December 2023 | Involved in [ITA-WIKI](https://github.com/IT-Academy-BCN/ita-wiki) as backend developer.<br>
 # Developer training
 * November 2023 | Took part in a Jump2Digital Hackathon and collaborated on the team whose solution won 1st place. Not that I see it as a major achievement, but it was an interesting experience and I appreciated the reward gift 🎧.
