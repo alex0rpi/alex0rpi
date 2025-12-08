@@ -12,7 +12,7 @@ After more than 6 years in France, I decided to return to my hometown, re-skill 
 * June-December 2023 | Involved in [ITA-WIKI](https://github.com/IT-Academy-BCN/ita-wiki) as backend developer.<br>
 # Developer training
 * November 2023 | Took part in a Jump2Digital Hackathon and collaborated on the team whose solution won 1st place. Not that I see it as a major achievement, but it was an interesting experience and I appreciated the reward gift 🎧.
-* Jan-June 2023 | Backend development bootcamp at Mediatic (Barcelona). The end of bootcamp project is a fullstrack chat web app that can be found in my pinned repositories.<br>
+* Jan-June 2023 | Backend development bootcamp at Mediatic (Barcelona). The program was aimed at NodeJS technologies including Typescript, MongoDB, MySQL, RestAPI with Express, Unit Testing and some programing patterns (Singleton, Factory Pattern etc.). The end of bootcamp project is a fullstrack chat web app that can be found in my pinned repositories.<br>
 * 2020 - 2022 | Self-taught web development learning (online bootcamps, tutorials etc.)<br>
 - 📫 You can reach me at: **orpi.alex@hotmail.com**
 ## Languages and Technologies 👦•💻
