@@ -71,7 +71,7 @@ After more than 6 years in France, I decided to return to my hometown, re-skill 
   Conservatori Superior de Música del Liceu
 
 # Journal📰​ (sort of..)
-* August 2026 I spent part of my summer hollydays developing a go-chi backend for managing the media contained in the rink hockey veterans web site. It is still a WIP but it's getting shape and I'm happy of the results and the things I've learned about Go. Repo available on my profile :)
+* August 2026 I spent part of my summer holidays developing a go-chi backend for managing the media contained in the rink hockey veterans web site. It is still a WIP but it's getting shape and I'm happy of the results and the things I've learned about Go. Repo available on my profile :)
 * July 2026 I made my first C++ / PIO embedded software for a meteo station, running on a ESP32. The repo is available on my profile, I need to add details regarding the devices involved.
 * July 2025 I got promoted to Engineer!🥳 kinda what I am already but anyway, I'm glad I got to this point. It's been 8 months or so in my current project where I got to use Java, JUNIT, Spring, JPA, SQL and other tools in a microservices environment with JENKINS pipeline deployments; so its kinda cool how many different technologies I've been able to use in this time.
 * November 2024 A new banking project starts in my work group and I now find myself learning JAVA☕ and microservices!! Seems I need to get competent at the Spring framework for this new project. Learning a new language (appart from learning a new superpower also makes you re-visit the fundamentals).
